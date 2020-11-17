@@ -34,8 +34,8 @@ window.onload = function () {
 
 
     sBtn.onclick = function () {
-        sRes.innerHTML = parseInt(sInp1.value)+parseInt(sInp2.value);
-        sBtn.disabled = true;
+        this.innerHTML = parseInt(sInp1.value)+parseInt(sInp2.value);
+        this.disabled = true;
     };
 
     sInp1.addEventListener('input',sumOnInput);
