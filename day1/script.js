@@ -34,7 +34,7 @@ window.onload = function () {
 
 
     sBtn.onclick = function () {
-        this.innerHTML = parseInt(sInp1.value)+parseInt(sInp2.value);
+        sRes.innerHTML = parseInt(sInp1.value)+parseInt(sInp2.value);
         this.disabled = true;
     };
 
