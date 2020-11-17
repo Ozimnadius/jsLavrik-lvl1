@@ -10,21 +10,25 @@ window.onload = function () {
     }
 
     function calcRes(){
-        let name = this.name;
+        let value = this.value;
         let result = 0;
         let val1 = parseInt(cInp1.value);
         let val2 = parseInt(cInp2.value);
 
-        if (name=='plus'){
-           result = val1+val2
-        } else if ( name=='minus'){
-            result = val1-val2
-        } else if ( name=='multiply'){
-            result = val1*val2
-        } else {
-            result = val1/val2
+        switch (value) {
+            case '+':
+                result = val1+val2;
+                break;
+            case '-':
+                result = val1-val2;
+                break;
+            case '*':
+                result = val1*val2;
+                break;
+            case '/':
+                result = val1/val2;
+                break;
         }
-
         cRes.innerHTML = result;
     }
 

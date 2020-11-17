@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a67153a8-6e69-41e2-93a7-c5fa0413da6b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/day1/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605595816204</updated>
-      <workItem from="1605595820073" duration="3197000" />
+      <workItem from="1605595820073" duration="3832000" />
     </task>
     <task id="LOCAL-00001" summary="day1">
       <created>1605597554973</created>
@@ -85,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605598819700</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day1 correction2">
+      <created>1605599909362</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605599909362</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +115,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="day1" />
     <MESSAGE value="day1 correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="day1 correction" />
+    <MESSAGE value="day1 correction2" />
+    <option name="LAST_COMMIT_MESSAGE" value="day1 correction2" />
   </component>
 </project>
