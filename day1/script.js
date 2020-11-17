@@ -12,15 +12,17 @@ window.onload = function () {
     function calcRes(){
         let name = this.name;
         let result = 0;
+        let val1 = parseInt(cInp1.value);
+        let val2 = parseInt(cInp2.value);
 
         if (name=='plus'){
-           result = parseInt(cInp1.value)+parseInt(cInp2.value)
+           result = val1+val2
         } else if ( name=='minus'){
-            result = parseInt(cInp1.value)-parseInt(cInp2.value)
+            result = val1-val2
         } else if ( name=='multiply'){
-            result = parseInt(cInp1.value)*parseInt(cInp2.value)
+            result = val1*val2
         } else {
-            result = parseInt(cInp1.value)/parseInt(cInp2.value)
+            result = val1/val2
         }
 
         cRes.innerHTML = result;

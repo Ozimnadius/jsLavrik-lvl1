@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a67153a8-6e69-41e2-93a7-c5fa0413da6b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/day1/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605595816204</updated>
-      <workItem from="1605595820073" duration="2520000" />
+      <workItem from="1605595820073" duration="3197000" />
     </task>
     <task id="LOCAL-00001" summary="day1">
       <created>1605597554973</created>
@@ -77,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605598783156</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day1 correction">
+      <created>1605598819700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605598819700</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
