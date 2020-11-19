@@ -2,9 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a67153a8-6e69-41e2-93a7-c5fa0413da6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day2/dz1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz1/prepros.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz1/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz1/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz2/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz2/img/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz2/img/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz2/img/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz2/img/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz2/img/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz2/img/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz2/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz2/img/Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz2/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz2/prepros.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz3/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz3/img/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz3/img/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz3/img/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz3/img/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz3/img/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz3/img/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz3/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz3/img/Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz3/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dz3/prepros.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/1_hw_1/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/1_hw_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/1_hw_1/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/2_hw_2/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/2_hw_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/2_hw_2/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/3_events/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/3_events/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/3_events/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/3_events/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/4_form/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/4_form/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/4_form/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/5_slider/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/5_slider/img/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/5_slider/img/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/5_slider/img/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/5_slider/img/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/5_slider/img/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/5_slider/img/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/5_slider/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/5_slider/img/Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/5_slider/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/5_slider/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/6_class/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/6_class/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/6_class/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/7_slider_oop/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/7_slider_oop/img/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/7_slider_oop/img/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/7_slider_oop/img/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/7_slider_oop/img/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/7_slider_oop/img/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/7_slider_oop/img/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/7_slider_oop/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/7_slider_oop/img/Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/7_slider_oop/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/7_slider_oop/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/8_slider_idea/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/8_slider_idea/img/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/8_slider_idea/img/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/8_slider_idea/img/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/8_slider_idea/img/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/8_slider_idea/img/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/8_slider_idea/img/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/8_slider_idea/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/8_slider_idea/img/Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/8_slider_idea/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js_lesson2_hw/8_slider_idea/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/prepros.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/day1/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +114,24 @@
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.0" />
   <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="localhost" />
   <component name="ProjectId" id="1kPIUa2RDaYISDlhKnA4J9HxcTW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day2" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\js-lavrik-lv1\day2" />
+      <recent name="C:\OpenServer\domains\js-lavrik-lv1\day2\dz2" />
+      <recent name="C:\OpenServer\domains\js-lavrik-lv1\day2\dz1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,7 +155,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605595816204</updated>
-      <workItem from="1605595820073" duration="3832000" />
+      <workItem from="1605595820073" duration="5353000" />
+      <workItem from="1605679427097" duration="3331000" />
+      <workItem from="1605782665250" duration="4222000" />
     </task>
     <task id="LOCAL-00001" summary="day1">
       <created>1605597554973</created>
@@ -93,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605599909362</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="day1 optimization">
+      <created>1605600542696</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605600542696</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +205,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -113,9 +216,11 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="day1" />
     <MESSAGE value="day1 correction" />
     <MESSAGE value="day1 correction2" />
-    <option name="LAST_COMMIT_MESSAGE" value="day1 correction2" />
+    <MESSAGE value="day1 optimization" />
+    <option name="LAST_COMMIT_MESSAGE" value="day1 optimization" />
   </component>
 </project>
