@@ -1,0 +1,7 @@
+html, body{
+    margin: 40px;
+}
+
+input[type=text] {border: 1px solid silver;}
+input.red { border: 1px solid red; }
+input.green { border: 2px solid lightgreen; }

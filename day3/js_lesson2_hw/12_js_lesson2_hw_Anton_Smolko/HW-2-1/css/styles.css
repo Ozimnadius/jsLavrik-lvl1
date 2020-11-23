@@ -1,0 +1,12 @@
+input {
+    display: block;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px 0;
+    outline: none;
+    border: 1px solid grey;
+}
+
+.error {
+    border: 1px solid red;
+}

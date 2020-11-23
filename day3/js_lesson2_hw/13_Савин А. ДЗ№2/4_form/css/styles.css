@@ -1,0 +1,15 @@
+html, body{
+    margin: 40px;
+}
+
+.gallery img{
+    width: 400px;
+}
+ .validate-this .error {
+      border-color: red;
+    }
+
+    .validate-this .error-text {
+      display: block;
+      color: red;
+    }

@@ -1,0 +1,15 @@
+form {
+    width: 400px;
+}
+input {
+    display: block;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.border-red {
+    border: 1px solid orangered;
+}

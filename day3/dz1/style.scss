@@ -1,0 +1,30 @@
+.popup {
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(#000,.7);
+  display: none;
+
+  &.active{
+    display: block;
+  }
+}
+
+.modal{
+  position: fixed;
+  z-index: 20;
+  top: 20%;
+  left: 50%;
+  width: 700px;
+  margin-left: -350px;
+  background: #fff;
+  padding: 30px;
+  display: none;
+
+  &.active{
+    display: block;
+  }
+}

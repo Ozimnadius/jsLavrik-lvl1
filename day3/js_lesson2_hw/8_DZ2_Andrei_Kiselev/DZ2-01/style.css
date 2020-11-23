@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  outline: none;
+}
+.wrapper {
+  border: 1px solid #ddd;
+  width: 200px;
+  padding: 15px;
+  margin: 40px auto;
+}
+.norm, .empty {
+  text-align: center;
+  display: none;
+}
+.norm.show, .empty.show {
+  display: block;
+}
+
+input {
+  display: block;
+  margin-bottom: 5px;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+.valid {
+  border: 1px solid green;
+}
+.invalid {
+  border: 1px solid red;
+}

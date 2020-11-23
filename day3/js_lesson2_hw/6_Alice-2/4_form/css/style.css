@@ -1,0 +1,17 @@
+.account {
+  width: 200px;
+  height: 150px;
+  border: 1px solid #343434;
+  border-radius: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+.empty-inp {
+  border-color: #f00;
+  font-size: 16px;
+}

@@ -1,0 +1,23 @@
+  
+form {
+    width: 270px;
+    margin: 50px auto;
+    position: relative;
+    
+}
+label {
+    display: block;
+    margin-bottom: 20px;
+    position: relative;
+}
+label input {
+    position: absolute;
+    right: 0;
+}
+form input[type="submit"] {
+    left: 145px;
+    position: relative;
+}
+label input.error {
+    border: 2px solid red;
+}

@@ -1,0 +1,12 @@
+html, body{
+    margin: 40px;
+}
+
+
+.active{
+	border: 1px solid red;	
+}
+
+.span-error{
+	color:red;
+}

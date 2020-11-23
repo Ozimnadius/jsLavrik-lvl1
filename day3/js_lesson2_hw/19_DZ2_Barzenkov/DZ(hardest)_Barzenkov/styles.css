@@ -1,0 +1,28 @@
+body{
+	margin: 0;
+}
+
+.container{
+	position:relative;
+	
+	height:670px;
+}
+
+.container img{
+	position:absolute;
+	left:0;
+	width:100%;
+	opacity: 0;
+	transition: opacity 1s;
+
+}
+
+.gallery{
+	margin:0 auto;
+	text-align:center;
+	width:860px;
+}
+
+.active{
+	opacity: 1!important;
+}

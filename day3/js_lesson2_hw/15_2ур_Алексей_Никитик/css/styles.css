@@ -1,0 +1,12 @@
+html, body{
+    margin: 40px;
+}
+
+input, label {
+    margin: 5px;
+}
+
+.wrongtext {
+	border: 2px solid red;
+	background: pink;
+}
