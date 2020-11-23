@@ -9,7 +9,7 @@ window.onload = function () {
 };
 
 function Popup() {
-    let that = this,
+    let popup = this,
         overlay = document.createElement('div'),
         modal = document.createElement('div');
 
@@ -30,7 +30,5 @@ function Popup() {
         modal.classList.remove('active');
     };
 
-    overlay.addEventListener('click', function () {
-        that.close();
-    });
+    overlay.addEventListener('click', popup.close);
 }

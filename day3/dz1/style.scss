@@ -1,6 +1,6 @@
 .popup {
   position: fixed;
-  z-index: 10;
+  z-index: 1000;
   top: 0;
   bottom: 0;
   left: 0;
@@ -15,7 +15,7 @@
 
 .modal{
   position: fixed;
-  z-index: 20;
+  z-index: 1001;
   top: 20%;
   left: 50%;
   width: 700px;
