@@ -1,347 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a67153a8-6e69-41e2-93a7-c5fa0413da6b" name="Default Changelist" comment="day2">
-      <change afterPath="$PROJECT_DIR$/day3/dz1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/dz1/prepros.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/dz1/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/dz1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/dz1/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/ReadME.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-1-1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-1-1/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-1-1/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-1-2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-1-2/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-1-2/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-2/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-2/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-2/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-2/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-2/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-2/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-2/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-2/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-2/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/10_dz2_Nikita N/dz2-2/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/form/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/form/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/form/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/slider_auto/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/slider_auto/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/slider_auto/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/slider_auto/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/slider_auto/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/slider_auto/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/slider_auto/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/slider_auto/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/slider_auto/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/slider_auto/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/11_Ольга/slider_auto/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-1/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-1/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-2/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-2/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-2/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-2/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-2/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-2/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-2/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-2/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-2/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-2/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-3/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-3/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-3/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-3/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-3/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-3/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-3/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-3/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-3/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/HW-2-3/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/12_js_lesson2_hw_Anton_Smolko/Новый текстовый документ.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/13_Савин А. ДЗ№2/4_form/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/13_Савин А. ДЗ№2/4_form/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/13_Савин А. ДЗ№2/4_form/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/14_valko-2/valko-2/задание 1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/14_valko-2/valko-2/задание 2/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/14_valko-2/valko-2/задание 2/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/14_valko-2/valko-2/задание 2/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/14_valko-2/valko-2/задание 2/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/14_valko-2/valko-2/задание 2/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/14_valko-2/valko-2/задание 2/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/14_valko-2/valko-2/задание 2/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/14_valko-2/valko-2/задание 2/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/14_valko-2/valko-2/задание 2/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/14_valko-2/valko-2/задание 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/14_valko-2/valko-2/задание 2/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/15_2ур_Алексей_Никитик/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/15_2ур_Алексей_Никитик/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/15_2ур_Алексей_Никитик/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/15_2ур_Алексей_Никитик/Новый текстовый документ.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/slider/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/slider/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/slider/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/slider/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/slider/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/slider/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/slider/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/slider/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/slider/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/slider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/slider/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/validate/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/validate/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/16_JS_lesson2_Aleksandr_L/validate/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 1/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 1/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 2/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 2/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 2/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 2/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 2/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 2/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 2/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 2/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 2/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 2/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 3/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 3/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 3/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 3/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 3/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 3/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 3/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 3/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 3/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 3/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/17_Vyacheslav/Задание 3/ВОПРОС.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/18_js2-Anton-i.openuser/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/18_js2-Anton-i.openuser/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/18_js2-Anton-i.openuser/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/18_js2-Anton-i.openuser/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/18_js2-Anton-i.openuser/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/18_js2-Anton-i.openuser/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/18_js2-Anton-i.openuser/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/18_js2-Anton-i.openuser/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/18_js2-Anton-i.openuser/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/18_js2-Anton-i.openuser/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/18_js2-Anton-i.openuser/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ(hardest)_Barzenkov/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ(hardest)_Barzenkov/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ(hardest)_Barzenkov/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ(hardest)_Barzenkov/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ(hardest)_Barzenkov/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ(hardest)_Barzenkov/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ(hardest)_Barzenkov/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ(hardest)_Barzenkov/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ(hardest)_Barzenkov/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ(hardest)_Barzenkov/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ(hardest)_Barzenkov/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ2_Barzenkov/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ2_Barzenkov/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/19_DZ2_Barzenkov/DZ2_Barzenkov/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание1 elena/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание1 elena/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание1 elena/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание2 elena/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание2 elena/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание2 elena/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание2 elena/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание2 elena/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание2 elena/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание2 elena/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание2 elena/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание2 elena/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание2 elena/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание2 elena/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание3 elena/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание3 elena/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание3 elena/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание3 elena/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание3 elena/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание3 elena/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание3 elena/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание3 elena/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание3 elena/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание3 elena/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/1_elena дз урок2/задание3 elena/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_1_hw_1/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_1_hw_1/css/styles.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_1_hw_1/css/styles.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_1_hw_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_1_hw_1/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_5_slider/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_5_slider/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_5_slider/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_5_slider/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_5_slider/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_5_slider/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_5_slider/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_5_slider/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_5_slider/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_5_slider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/20_2 lesson/Igor_N_5_slider/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безносов Виктор - Задание 1/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безносов Виктор - Задание 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безносов Виктор - Задание 1/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безнсов Виктор - Задание 3/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безнсов Виктор - Задание 3/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безнсов Виктор - Задание 3/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безнсов Виктор - Задание 3/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безнсов Виктор - Задание 3/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безнсов Виктор - Задание 3/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безнсов Виктор - Задание 3/img/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безнсов Виктор - Задание 3/img/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безнсов Виктор - Задание 3/img/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безнсов Виктор - Задание 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/2_Безнсов Виктор - Задание 3/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/3_Андрей Карликов js дз 2-1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/3_Андрей Карликов js дз 2-1/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/3_Андрей Карликов js дз 2-1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/2_slider/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/2_slider/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/2_slider/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/2_slider/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/2_slider/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/2_slider/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/2_slider/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/2_slider/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/2_slider/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/2_slider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/4_dz-2_AlexeyR/2_slider/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/5_Пархоменко_домашняя работа_урок2/Новый текстовый документ.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/5_Пархоменко_домашняя работа_урок2/Пархоменко_домашняя работа/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/5_Пархоменко_домашняя работа_урок2/Пархоменко_домашняя работа/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/5_Пархоменко_домашняя работа_урок2/Пархоменко_домашняя работа/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/5_Пархоменко_домашняя работа_урок2/Пархоменко_домашняя работа/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/5_Пархоменко_домашняя работа_урок2/Пархоменко_домашняя работа/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/5_Пархоменко_домашняя работа_урок2/Пархоменко_домашняя работа/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/5_Пархоменко_домашняя работа_урок2/Пархоменко_домашняя работа/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/5_Пархоменко_домашняя работа_урок2/Пархоменко_домашняя работа/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/5_Пархоменко_домашняя работа_урок2/Пархоменко_домашняя работа/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/5_Пархоменко_домашняя работа_урок2/Пархоменко_домашняя работа/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/5_Пархоменко_домашняя работа_урок2/Пархоменко_домашняя работа/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/4_form/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/4_form/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/4_form/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/5_slider/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/5_slider/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/5_slider/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/5_slider/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/5_slider/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/5_slider/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/5_slider/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/5_slider/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/5_slider/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/5_slider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice-2/5_slider/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/4_form/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/4_form/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/4_form/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/5_slider/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/5_slider/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/5_slider/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/5_slider/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/5_slider/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/5_slider/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/5_slider/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/5_slider/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/5_slider/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/5_slider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/6_Alice/5_slider/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/img/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/js/script-context-2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/js/script-context-3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/js/script-context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_XS-hw2a-slider_oop/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/form/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/form/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/form/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/form/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/questions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/img/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/js/script-context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/7_xs-hw-2/slider_oop/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/Comments.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-01/dz2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-01/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-01/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-02/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-02/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-02/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-02/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-02/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-02/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-02/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-02/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-02/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-02/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/8_DZ2_Andrei_Kiselev/DZ2-02/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex1/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex2/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex2/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex2/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex2/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex2/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex2/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex2/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex2/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex2/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex2/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex3/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex3/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex3/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex3/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex3/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex3/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex3/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex3/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex3/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson2_hw/9_homework_2_Maksim/ex3/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson3_src/1_lib/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson3_src/1_lib/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson3_src/1_lib/js/ourjquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson3_src/1_lib/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js_lesson3_src/scripts.js" afterDir="false" />
+    <list default="true" id="a67153a8-6e69-41e2-93a7-c5fa0413da6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/10_Савин А. ДЗ №3_/popup/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/10_Савин А. ДЗ №3_/popup/img/best.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/10_Савин А. ДЗ №3_/popup/img/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/10_Савин А. ДЗ №3_/popup/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/10_Савин А. ДЗ №3_/popup/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/11_Lyahnovich_A/modal/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/11_Lyahnovich_A/modal/img/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/11_Lyahnovich_A/modal/img/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/11_Lyahnovich_A/modal/img/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/11_Lyahnovich_A/modal/img/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/11_Lyahnovich_A/modal/img/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/11_Lyahnovich_A/modal/img/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/11_Lyahnovich_A/modal/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/11_Lyahnovich_A/modal/img/Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/11_Lyahnovich_A/modal/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/11_Lyahnovich_A/modal/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/sm-Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/sm-Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/sm-Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/sm-Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/sm-Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/sm-Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/sm-Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/sm-Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/img/thin-x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/12_dz3_js_Anton-i.openuser/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/13_Алексей_Никитик/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/13_Алексей_Никитик/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/13_Алексей_Никитик/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/13_Алексей_Никитик/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/13_Алексей_Никитик/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/13_Алексей_Никитик/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/13_Алексей_Никитик/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/13_Алексей_Никитик/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/13_Алексей_Никитик/js/ourjquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/13_Алексей_Никитик/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/14_homework_3_Maksim/ex1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/14_homework_3_Maksim/ex1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/14_homework_3_Maksim/ex1/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/14_homework_3_Maksim/ex2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/14_homework_3_Maksim/ex2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/14_homework_3_Maksim/ex2/js/ourjquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/14_homework_3_Maksim/ex2/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-2-3/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-2-3/img/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-2-3/img/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-2-3/img/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-2-3/img/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-2-3/img/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-2-3/img/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-2-3/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-2-3/img/Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-2-3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-2-3/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-3/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/15_js_lesson3_hw_Anton_Smolko/HW-3/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/1_viktorbeznosov/Задание 1/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/1_viktorbeznosov/Задание 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/1_viktorbeznosov/Задание 1/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/1_viktorbeznosov/Задание 2/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/1_viktorbeznosov/Задание 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/1_viktorbeznosov/Задание 2/js/ourjquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/1_viktorbeznosov/Задание 2/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/2_elena/Новый текстовый документ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/2_elena/задание 1/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/2_elena/задание 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/2_elena/задание 1/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/2_elena/задание 2/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/2_elena/задание 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/2_elena/задание 2/js/ourjquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/2_elena/задание 2/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/2_elena/задание 2/вопрос.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/3_xs-hw-3/css/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/3_xs-hw-3/css/pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/3_xs-hw-3/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/3_xs-hw-3/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/3_xs-hw-3/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/3_xs-hw-3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/3_xs-hw-3/js/ourjquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/3_xs-hw-3/js/popup2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/3_xs-hw-3/questions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/3_xs-hw-3/questions1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/4_AlexeyR/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/4_AlexeyR/1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/4_AlexeyR/1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/4_AlexeyR/2.1/OurJQuery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/4_AlexeyR/2.1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/4_AlexeyR/2.1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/4_AlexeyR/2.1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/5_Alice/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/5_Alice/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/5_Alice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/5_Alice/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/5_Alice/js/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/6_Пархоменко Александр домашнее задание 3/задание 1/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/6_Пархоменко Александр домашнее задание 3/задание 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/6_Пархоменко Александр домашнее задание 3/задание 1/js/ourjquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/6_Пархоменко Александр домашнее задание 3/задание 1/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/6_Пархоменко Александр домашнее задание 3/задание 2/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/6_Пархоменко Александр домашнее задание 3/задание 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/6_Пархоменко Александр домашнее задание 3/задание 2/js/ourjquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/6_Пархоменко Александр домашнее задание 3/задание 2/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/7_dz3 Nikita_N/dz3-1/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/7_dz3 Nikita_N/dz3-1/img/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/7_dz3 Nikita_N/dz3-1/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/7_dz3 Nikita_N/dz3-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/7_dz3 Nikita_N/dz3-1/js/ourjquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/7_dz3 Nikita_N/dz3-1/js/popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/7_dz3 Nikita_N/dz3-2/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/7_dz3 Nikita_N/dz3-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/7_dz3 Nikita_N/dz3-2/js/func.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/7_dz3 Nikita_N/dz3-2/js/ourjquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/7_dz3 Nikita_N/dz3-2/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/8_Ольга_дз№3/fade/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/8_Ольга_дз№3/fade/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/8_Ольга_дз№3/fade/js/ourjquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/8_Ольга_дз№3/fade/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/8_Ольга_дз№3/popup/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/8_Ольга_дз№3/popup/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/8_Ольга_дз№3/popup/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/9_js_hw-2_dz-1_a_reg/dz-1/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/9_js_hw-2_dz-1_a_reg/dz-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/9_js_hw-2_dz-1_a_reg/dz-1/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/9_js_hw-2_dz-1_a_reg_dop/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/9_js_hw-2_dz-1_a_reg_dop/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson3_hw/9_js_hw-2_dz-1_a_reg_dop/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson4_src/1_hw_popup/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson4_src/1_hw_popup/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson4_src/1_hw_popup/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson4_src/2_hw_callback/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson4_src/2_hw_callback/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson4_src/2_hw_callback/js/ourjquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson4_src/2_hw_callback/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson4_src/3_jq/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson4_src/3_jq/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson4_src/3_jq/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js_lesson4_src/3_jq/js/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/dz1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/day3/dz1/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -378,12 +190,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day4" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\js-lavrik-lv1\day4" />
       <recent name="C:\OpenServer\domains\js-lavrik-lv1\day3" />
       <recent name="C:\OpenServer\domains\js-lavrik-lv1\day2" />
       <recent name="C:\OpenServer\domains\js-lavrik-lv1\day2\dz2" />
@@ -416,7 +229,8 @@
       <workItem from="1605679427097" duration="3331000" />
       <workItem from="1605782665250" duration="6591000" />
       <workItem from="1605852004758" duration="598000" />
-      <workItem from="1606111354745" duration="2164000" />
+      <workItem from="1606111354745" duration="2787000" />
+      <workItem from="1606126270375" duration="1640000" />
     </task>
     <task id="LOCAL-00001" summary="day1">
       <created>1605597554973</created>
@@ -467,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605790181871</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="day3">
+      <created>1606116673567</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606116673567</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,6 +316,7 @@
     <MESSAGE value="day1 correction2" />
     <MESSAGE value="day1 optimization" />
     <MESSAGE value="day2" />
-    <option name="LAST_COMMIT_MESSAGE" value="day2" />
+    <MESSAGE value="day3" />
+    <option name="LAST_COMMIT_MESSAGE" value="day3" />
   </component>
 </project>

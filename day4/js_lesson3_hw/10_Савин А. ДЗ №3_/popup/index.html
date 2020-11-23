@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>popup</title>
+        <link href="css/styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <!-- Задний прозрачный фон-->
+		<div onclick="show('none')" id="wrap"></div>
+
+					<!-- Само окно-->
+			<div id="window">
+						
+						 <!-- Картинка крестика-->
+				<img class="close" onclick="show('none')" src="img/close.png">
+					
+						<!-- Картинка -->
+				<img class="top" src="img/best.png">
+			</div>
+
+		<button class="myButton" onclick="show('block')">Показать окно</button>	
+		
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<script type="text/javascript" src="js/scripts.js"></script>
+	<script type="text/javascript">
+		window.onload = function(){
+			var popup1 = new Popup({
+				popup: '.popup',
+				overlay: '.overlay',
+				showPopup: '#showPopup1',
+				inner: 'Стили для popup и overlay содрал из google.<br> Все остальное сделал сам :)'
+			});
+
+			var popup1 = new Popup({
+				popup: '.popup',
+				overlay: '.overlay',
+				showPopup: '#showPopup2',
+				inner: 'Еще один popup'
+			});
+		}
+	</script>
+</head>
+<body>
+
+	<div class="somediv">
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.		
+	</div><br>
+	<div class="somediv">
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.		
+	</div><br>
+	<div class="somediv">
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.		
+	</div><br>
+
+	<a href="#" id="showPopup1"> popup </a>
+	<br><br>
+	<a href="#" id="showPopup2"> Еще один popup </a>
+	
+	<div class="overlay">
+
+	</div>
+	<div class="popup">
+
+	</div>
+	
+	
+</body>
+</html>

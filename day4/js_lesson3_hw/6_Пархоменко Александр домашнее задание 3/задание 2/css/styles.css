@@ -1,0 +1,22 @@
+html, body{
+    margin: 40px;
+}
+
+.gallery img{
+    width: 400px;
+}
+
+.err{
+    outline: 1px solid red;
+}
+
+.focus{
+    box-shadow: 0 0 5px #ff0;
+}
+
+.item{
+      width: 300px;
+      height: 200px;
+      background: #f9b;
+      margin: 20px;
+}

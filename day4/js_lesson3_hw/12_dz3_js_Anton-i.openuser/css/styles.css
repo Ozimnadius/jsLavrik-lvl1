@@ -1,0 +1,106 @@
+html, body {
+    height: 100%;
+}
+html, body, ul, li{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: sans-serif;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    position: relative;
+    background: #0a3442 url(../img/bg.jpg) 0 0 repeat;
+    color: #fff;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 1em;
+}
+h1 span {
+    font-weight: normal;
+    font-size: 70%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.gallery{
+    width: 900px;
+    margin: 0 auto 1em;
+    text-align: center;
+}
+.gallery img {
+    display: inline-block;
+    width: 215px;
+    cursor: crosshair;
+    border: 1px solid transparent;
+    -webkit-border-radius: 5px;
+            border-radius: 5px;
+}
+.gallery img:hover {
+    border-color: #fff;
+}
+
+
+.overlay, .popup {
+    display: none;
+}
+.showed {
+    display: block;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  background-color: rgba(0,0,0,0.7);
+}
+.overlay:hover {
+    background-color: rgba(0,0,0,0.4);
+    cursor: url(../img/thin-x.png), pointer;
+}
+.popup {
+    width: 900px;
+    height: 675px;
+    position: fixed;
+    top: 5%; 
+    left: 0;
+    right: 0;
+    margin: auto;
+    background: #0A3442 url(../img/loading.gif) center center no-repeat;
+    border-radius: 5px;
+    text-align: center;
+    z-index: 11;
+    -webkit-border-radius: 10px;
+            border-radius: 10px;
+}
+.popup img {
+    -webkit-border-radius: 8px;
+            border-radius: 8px;
+}
+.close {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    -webkit-border-radius: 35px;
+            border-radius: 35px;
+    display: block;
+    background-color: #FFF;
+    color: #000;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    cursor: pointer;
+}
+.close:hover {
+    background-color: #000;
+    color: #FFF;
+}

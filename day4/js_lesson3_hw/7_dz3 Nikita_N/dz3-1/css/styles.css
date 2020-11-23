@@ -1,0 +1,78 @@
+body,div,dl,dt,dd,ul,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,input,textarea,p,blockquote,th,td,menu{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;}
+fieldset,img,abbr{border:0;}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}
+ul li,menu li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}
+legend{color:#000;}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}
+
+
+.wrapper{
+    max-width: 1280px;
+    min-height: 600px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 0 auto;
+    background: grey;
+    color:white;
+
+}
+
+h1{
+    color: #4a6eff;
+    font-size: 24px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+p{
+    padding-bottom:20px;
+}
+/*-------------------------------*/
+
+.callPopup{
+    color: #ff8e86;
+    font-size: 20px;
+    cursor:pointer;
+    padding-bottom:15px;
+}
+
+
+.callPopup2{
+    color: #25ffcd;
+    font-size: 20px;
+    cursor:pointer;
+    padding-bottom:15px;
+}
+
+.overlay{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.75);
+}
+
+.window{
+    position:absolute;
+    top:25%;
+    left:25%;
+    width:50%;
+    min-height:200px;
+    color:black;
+    background:white;
+    box-sizing: border-box;
+    padding:20px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+
+/*
+.hidden{
+    display: none;
+}
+
+*/

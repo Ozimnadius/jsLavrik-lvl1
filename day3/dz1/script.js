@@ -10,27 +10,27 @@ window.onload = function () {
 
 function Popup() {
     let that = this,
-        popup = document.createElement('div'),
+        overlay = document.createElement('div'),
         modal = document.createElement('div');
 
-    popup.classList.add('popup');
+    overlay.classList.add('popup');
     modal.classList.add('modal');
-    document.body.append(popup);
+    document.body.append(overlay);
     document.body.append(modal);
 
     this.open = function (content) {
-        popup.classList.add('active');
+        overlay.classList.add('active');
         modal.innerHTML = content;
         modal.classList.add('active');
     };
 
     this.close = function () {
-        popup.classList.remove('active');
+        overlay.classList.remove('active');
         modal.innerHTML = '';
         modal.classList.remove('active');
     };
 
-    popup.addEventListener('click', function () {
+    overlay.addEventListener('click', function () {
         that.close();
     });
 }

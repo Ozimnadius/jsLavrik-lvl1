@@ -1,0 +1,40 @@
+html, body{
+    margin-left: 40px;
+}
+
+.gallery img{
+    width: 400px;
+}
+
+.err{
+    outline: 1px solid red;
+}
+
+.focus{
+    box-shadow: 0 0 5px #ff0;
+}
+
+
+.square{
+    width:200px;
+    height:200px;
+    color:white;
+    text-align: center;
+    font-size: 16px;
+    margin-top:20px;
+}
+
+
+.square1{
+    background: orangered;
+}
+
+.square2{
+    background: #8cff9b;
+    display: none;
+}
+
+
+.stealth{
+    display:none;
+}
