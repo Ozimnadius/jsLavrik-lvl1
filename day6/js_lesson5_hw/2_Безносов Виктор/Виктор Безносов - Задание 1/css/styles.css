@@ -1,0 +1,43 @@
+html, body{
+    margin: 0;
+    background: #eee;
+}
+
+.menu{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #000;
+    color: #fff;
+    height: 50px;
+    width: 100%;
+}
+
+.menu a{
+    color: inherit;
+    line-height: 50px;
+    font-size: 20px;
+    margin: 0 10px;
+    transition: color 0.4s;
+}
+
+.menu a.active{
+    color: #ff0;
+}
+
+.content{
+    margin-top: 70px;
+}
+
+.scrollup{
+    position: fixed;
+    border: 1px solid #666666;
+    top:90vh;
+    left: 87vw;
+    font-size: 20px;
+    padding: 10px 40px 10px 40px;
+    background: #ccc;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0 rgba(0,0,0,0.5);
+    cursor: pointer;
+}

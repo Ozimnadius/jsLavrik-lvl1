@@ -1,0 +1,21 @@
+html, body, ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	background-color: #fde;
+	padding: 0 0 0 10px;
+}
+p, .timer{
+	font-size: 1.5rem;
+	text-align: center;
+}
+.timer div {
+	display: inline-block;
+	text-align: center;
+	margin: 0 20px;
+}
+.timer div span {
+	display: block;
+}

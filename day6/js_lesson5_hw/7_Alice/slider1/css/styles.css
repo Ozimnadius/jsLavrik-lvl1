@@ -1,0 +1,27 @@
+html, body, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  background: url("../img/background.jpg") no-repeat;
+}
+
+.gallery {
+    width: 500px;
+    margin: 50px auto;
+    text-align: center;
+    overflow: hidden;
+}
+
+.gallery .photos {
+    position: relative;
+    height: 300px;
+}
+
+.gallery .photos img {
+    position: absolute;
+    left: 0;
+    width: 0;
+    transition: opacity 1s;
+}

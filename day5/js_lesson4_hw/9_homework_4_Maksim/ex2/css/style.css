@@ -1,0 +1,34 @@
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+    margin: 0;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.faq-wrapper {
+    max-width: 600px;
+    width: 100%; 
+    padding: 2em;
+    border: 1px solid #ccc;
+}
+.question + div {
+    display: none;
+    margin-top: 0.5em;
+    font-style: italic;
+}
+.first + div {
+    display: block;
+} 
+.question {
+    margin-top: 1em;
+    cursor: pointer;
+}
+.question:first-of-type {
+    margin-top: 0;
+}

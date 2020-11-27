@@ -1,0 +1,42 @@
+.wrapper {
+	max-width: 1280px;
+	height: 90vh;
+	padding: 0;
+	margin: 0 auto;
+	font-family: Arial;
+	text-align: center;
+	display: flex;
+	align-items: center;
+}
+
+.task {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+span {
+	font-weight: 900;
+	font-size: 60px;
+	color: #aaa;
+	text-align: left;
+	margin: 0 20px;
+}
+
+.hours {
+	width: 20%;
+	flex-basis: 270px;
+}
+
+.minutes {
+	width: 30%;
+	flex-basis: 320px;
+	text-align: center;
+}
+
+.seconds {
+	width: 30%;
+	flex-basis: 350px;
+}

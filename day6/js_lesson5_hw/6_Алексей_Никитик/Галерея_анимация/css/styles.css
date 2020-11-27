@@ -1,0 +1,43 @@
+html, body, ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+	display: flex;
+	justify-content: space-around;
+	padding-top: 100px;
+}
+
+.gallery-1 {
+	width: 600px;
+}
+
+/* .gallery-2 {
+	width: 500px;
+} */
+
+.photos{
+    position: relative;
+	height: 450px;
+		
+}
+
+.photos img{
+    position: absolute;
+	left: 0;    
+    width: 0;
+
+}
+
+.photos img.showed{
+    width: 100%;
+	
+}
+
+.buttons {
+	padding-top: 30px;
+} 

@@ -1,0 +1,96 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link rel="stylesheet" href="css/reset.css"> 
+		<link rel="stylesheet" href="css/styles.css"> 
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	</head>
+ 
+	<body>
+		<div class="slider">
+			<div class="sliderBox">
+				<img class="slide" src="img/cat1.jpg" alt="">                   
+				<img class="slide" src="img/cat2.jpg" alt="">
+				<img class="slide" src="img/cat3.jpg" alt="">
+			</div>
+			<div>
+				<img class="btnLeft" src="img/left.png" alt="">
+				<img class="btnRight" src="img/right.png" alt="">
+			</div>
+		</div>
+		<script>
+		
+            var $slide = $('.slide');
+			var sliderPosition = 0; 
+
+			function slider() {
+				if (sliderPosition < 0) {
+				
+					sliderPosition = $slide.length - 1; 
+					
+		
+					
+				} else if (sliderPosition >= $slide.length) {
+					sliderPosition = 0; 
+				//	console.log(sliderPosition); 
+				}
+				$('.sliderBox').animate({left: -100 * sliderPosition + "%"});
+			}
+		
+			$('.btnLeft').on('click', function() {
+			
+				sliderPosition -= 1; 
+				slider(); 
+				//$('.sliderBox').animate({left: -100 * sliderPosition + "%"}); 
+				
+			});
+			
+			$('.btnRight').on('click', function() {
+			 
+				sliderPosition += 1;  
+				slider();
+				//$('.sliderBox').animate({right: -350 * sliderPosition});
+				
+			});
+
+				/*		var clone; 
+					
+					clone = $('.slide').eq(-1); 
+					clone.prependTo('.sliderBox'); 
+					$('.sliderBox').css('left','-100%');
+					$('.sliderBox').animate({left: 0}, function(){
+						$('.slide').eq(0).remove();
+						$('.sliderBox').css({left: -100 * $('.slide').length-1 + "%"});
+					});*/
+
+			
+			
+				
+				/*       
+				$('.slide.active').fadeOut(1000, function(){
+					var slide = $('.slide'); 
+
+					if(!slide.eq(chosen).hasClass('active')) {
+											
+						slide.removeClass('active'); 
+						slide.eq(chosen).addClass('active');
+					} 
+					else {
+						$('.slide.active').fadeIn(1000); 
+					}
+				});              */ 
+			
+		</script>
+		
+	</body>
+	
+	
+</html>
+ 
+
+ 
+ 
+ 
+ 

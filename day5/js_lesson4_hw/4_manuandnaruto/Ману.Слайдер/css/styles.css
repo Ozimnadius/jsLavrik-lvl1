@@ -1,0 +1,24 @@
+.slider {
+	font-size: 0; 
+	overflow: hidden; 
+	width: 300px; 
+	margin: 0 auto; 
+}
+
+.sliderBox {
+	position: relative; 
+	left: 0; 
+	white-space: nowrap; 
+}
+
+.slide {
+	font-size: 16px;
+}
+
+.btnLeft, .btnRight {
+	width: 30px; 
+	height: 20px; 
+	margin: 0 auto; 
+	margin-left: 80px; 
+	cursor: pointer; 
+}

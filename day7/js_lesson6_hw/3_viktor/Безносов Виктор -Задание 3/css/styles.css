@@ -1,0 +1,13 @@
+html, body{
+    margin: 30px;
+    background: #eee;
+}
+
+.item{	
+    background: #4DC7A0;  
+    margin-left: 5px;  
+}
+
+.answer{
+	padding: 10px;
+}

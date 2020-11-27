@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/mySliderPlugin.js"></script>
+	<script type="text/javascript">
+		
+		$(function(){
+			$('#gallery').mySlider({
+				images: '.photos',
+				btnNext: '.buttons .next',
+				btnPrev: '.buttons .prev',
+				// auto: true,
+				// time: 2000
+			});
+		});
+
+	</script>
+</head>
+<body>
+	<div id="gallery">
+		<div class="photos">
+			<img src="img/1.jpg" class="showed">
+			<img src="img/2.jpg">
+			<img src="img/3.jpg">
+			<img src="img/4.jpg">
+			<img src="img/5.jpg">
+			<img src="img/6.jpg">
+			<img src="img/7.jpg">
+			<img src="img/8.jpg">
+		</div><br><br>
+		<div class="buttons">
+			<input type="button" class="prev" value="Назад">
+			<input type="button" class="next" value="Вперед">
+		</div>
+	</div>
+</body>
+</html>

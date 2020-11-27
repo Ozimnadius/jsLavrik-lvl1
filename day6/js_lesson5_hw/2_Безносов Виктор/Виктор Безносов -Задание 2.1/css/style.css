@@ -1,0 +1,26 @@
+#gallery{
+	width: 860px;	
+	margin: 0 auto;
+	//text-align: center;	
+}
+
+#gallery .photos img{
+	width: 100%;	
+	width: 0;
+	position: absolute;		
+} 
+
+#gallery .photos{
+	position: relative;
+	width: 860px;
+	height: 646px;	
+}
+
+#gallery .photos img.showed{	
+	width: 100%;
+	//left:0;
+}
+
+.buttons{
+	text-align: center;
+}

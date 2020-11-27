@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript" src="main.js"></script>	
+	<script type="text/javascript">
+		window.onload = function(){
+			var stopButton = document.querySelector('#btn1');
+			var t = new myTimer('.span1' , 200000);
+			t.start();
+			stopButton.onclick = function(){
+				t.stop();
+			}
+
+		};
+	</script>
+</head>
+<body>
+	<span class="span1"> span1 </span><br><br>
+	<button id="btn1"> Стоп </button>
+</body>
+</html>

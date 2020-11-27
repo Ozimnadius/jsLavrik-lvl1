@@ -1,0 +1,30 @@
+html, body, ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+.gallery{
+    width: 400px;
+    margin: 20px auto;
+    text-align: center;
+	overflow: hidden;
+}
+input[type='button'] {
+	 margin: 20px auto 0;
+}
+
+.gallery .photos{
+    position: relative;
+    height: 300px;
+}
+
+.gallery .photos img{
+    width: 0;
+    position: absolute;
+    left: 0;
+  
+}
+
+.gallery .photos img.showed{
+     width: 100%;
+}

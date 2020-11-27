@@ -1,0 +1,23 @@
+.accordion {
+	display: flex;
+	flex-direction: column; 
+}
+
+.question {
+	width: 400px; 
+	height: 20px; 
+	padding: 20px;
+	border: 1px solid;
+	margin-bottom: 5px;
+	background-color: #0F0; 
+	border: 1px solid;  	
+}
+
+.content {
+	display: none; 
+	width: 400px; 
+}
+
+.active { 
+	display: block; 
+}

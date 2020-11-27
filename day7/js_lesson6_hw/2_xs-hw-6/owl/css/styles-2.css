@@ -1,0 +1,13 @@
+html, body, ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+.gallery{
+    width: 80%;
+    margin: 30px auto;
+}
+
+.item img {
+    width: auto;
+}

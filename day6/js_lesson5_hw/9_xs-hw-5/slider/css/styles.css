@@ -1,0 +1,39 @@
+html, body, ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+.gallery{
+    width: 300px;
+    margin: 0 auto 30px;
+    text-align: center;
+}
+
+.gallery .photos{
+    position: relative;
+    height: 230px;
+}
+
+.gallery .photos img{
+    width: 100%;
+    position: absolute;
+    width: 0;
+}
+
+.gallery .photos img.showed{
+  width: 100%;
+}
+
+.bot-right {
+    right: 0;
+    bottom: 0;
+}
+
+.top-left {
+    left: 0;
+    top: 0;
+}
+
+.hide {
+    display: none;
+}

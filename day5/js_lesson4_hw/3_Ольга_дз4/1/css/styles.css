@@ -1,0 +1,28 @@
+html, body{
+    margin: 0;
+}
+
+.wrapper {
+    width: 900px;
+    margin: 50px auto 0;
+    font-family: Arial;
+    color: #000;
+}
+.block {
+    margin-bottom: 20px;
+}
+.ask {
+    color: #6322dd;
+    border-bottom: 1px dotted #6322dd;
+    font-size: 20px;
+    line-height: 24px;
+    display: inline-block;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.answer {
+   font-size: 16px;
+  line-height: 20px; 
+    text-align: justify;
+    display: none;
+}

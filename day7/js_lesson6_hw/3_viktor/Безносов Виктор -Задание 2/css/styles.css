@@ -1,0 +1,12 @@
+html, body{
+    margin: 30px;
+    background: #eee;
+}
+
+.item{	
+    background: #4DC7A0;    
+}
+
+.answer{
+	padding: 10px;
+}

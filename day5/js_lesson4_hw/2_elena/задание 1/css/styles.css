@@ -1,0 +1,11 @@
+.question{
+	cursor: pointer;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.answer{
+	background: #fed;
+	display: none;
+	padding: 15px;
+}

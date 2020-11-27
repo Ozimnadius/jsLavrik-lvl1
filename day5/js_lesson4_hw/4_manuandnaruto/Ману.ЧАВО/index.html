@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <title>1</title>
+        <link href="css/style.css" rel="stylesheet">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    </head>
+    <body>
+		<div class="accordion">
+			<div class="question">Question 1</div>
+			<div class="content">
+				Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate.
+				Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit amet, nunc. Nam a nibh. Donec suscipit eros. 
+			</div>
+		</div>
+		<div class="accordion">
+			<div class="question">Question 2</div>
+			<div class="content">
+				Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate.
+				Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit amet, nunc. Nam a nibh. Donec suscipit eros. 
+			</div>
+		</div>
+		<div class="accordion">
+			<div class="question">Question 3</div>
+			<div class="content">
+				Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate.
+				Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit amet, nunc. Nam a nibh. Donec suscipit eros. 
+			</div>
+		</div>
+		</div>
+        <script>
+			$(function() {
+			
+				$('.question').on('click', function(){
+				
+					var parent = $(this).parent('.accordion'); 
+					var elem = parent.children('.content'); //<-- не лучше ли children() вместо find(), т.к.   
+					//в parent необязательно включать '.accordion', т.к. переход и так будет на один дом элемент выше (в данном случает "accordion"); А вот PARENTS -->переход выше до HTML тега(включительно), если не указану какому элементу применяется (т.е. внутри скобок пусто -->parents();) 
+					
+					
+					if(!parent.hasClass('.active')) {
+						elem.addClass('.active'); 
+						$('.content').slideUp('fast');	
+						elem.slideDown('fast'); 				
+					}
+					else if(parent.hasClass('.active')){
+						elem.slideUp('fast');
+						//elem.removeClass('.active'); 
+					}
+				}); 
+			}); 
+			
+			/*     А если по простому сделать?) 
+			
+				$('.question1').click(function() {
+					$('.text1').slideToggle('fast');
+					$('.text2').hide();
+					$('.text3').hide();
+				});
+
+				$('.question2').click(function() {
+					$('.text2').slideToggle('fast');
+					$('.text1').hide();
+					$('.text3').hide();
+				});
+
+				$('.question3').click(function() {
+					$('.text3').slideToggle('fast');
+					$('.text1').hide();
+					$('.text2').hide();
+				});
+
+			*/
+		</script>
+    </body>
+</html>
+		
